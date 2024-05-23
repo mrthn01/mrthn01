@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murathan</h1>
 <h3 align="center">Junior year electrical and electronics engineering students</h3>
 
-- 🔭 I’m currently working on **Push swap**
+- 🔭 I’m currently working on **Philosophers**
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
