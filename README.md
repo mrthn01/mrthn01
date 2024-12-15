@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murathan</h1>
-<h3 align="center">Junior year electrical and electronics engineering students</h3>
+<h3 align="center"><Senior year electrical and electronics engineering students</h3>
 
 - 🔭 I’m currently working on **Philosophers**
 
